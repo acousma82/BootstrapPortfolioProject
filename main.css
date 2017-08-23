@@ -89,5 +89,12 @@ footer {
   padding: 40px 0;
 }
 
-/* RESPONSIVE CSS
+/* Colors
 -------------------------------------------------- */
+.skills {
+background-color: #8EBA43;
+  color: white;
+}
+.tagline{ background-color: #F9DC24;}
+
+.contact {background-color: #EB8A44  ;}
